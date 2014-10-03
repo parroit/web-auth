@@ -1,7 +1,7 @@
 {
   "name": "web-auth",
   "description": "tcomb models for web-site authorization",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/parroit/web-auth",
   "author": {
     "name": "Andrea Parodi",
