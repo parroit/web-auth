@@ -22,18 +22,22 @@
   ],
   "main": "lib/web-auth",
   "engines": {
-      "node": ">=0.10.26",
-      "npm": ">=1.4.3"
+    "node": ">=0.10.26",
+    "npm": ">=1.4.3"
   },
   "scripts": {
     "test": "gulp test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "tcomb": "~0.2.1",
+    "pouchdb": "~3.0.6",
+    "bluebird": "~2.3.4"
+  },
   "devDependencies": {
     "chai": "~1.9.1",
     "gulp": "~3.8.6",
-    "gulp-mocha": "~0.5"
-
+    "gulp-mocha": "~0.5",
+    "rimraf": "~2.2.8"
   },
   "keywords": []
 }
