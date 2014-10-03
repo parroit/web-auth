@@ -1,6 +1,6 @@
 {
   "name": "web-auth",
-  "description": "",
+  "description": "tcomb models for web-site authorization",
   "version": "0.1.0",
   "homepage": "https://github.com/parroit/web-auth",
   "author": {
